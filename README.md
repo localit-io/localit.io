@@ -11,7 +11,7 @@ This is the official feedback and issue tracking hub for **Localit.io** - the mo
 ## 🐛 How to Report Issues
 
 Found a bug? Please:
-1. Check [existing issues](https://github.com/localit-io/core/issues) first
+1. Check [existing issues](https://github.com/localit-io/localit.io/issues) first
 2. Create new issue with:
    - Clear title (e.g. "Editor crashes when uploading .po files")
    - Steps to reproduce
