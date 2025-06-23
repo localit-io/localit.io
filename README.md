@@ -6,7 +6,7 @@ This is the official feedback and issue tracking hub for **Localit.io** - the mo
 - 👥 **Collaborative** (built-in team chat)
 - 💰 **Budget-friendly**
 
-👉 **Note:** Our core product runs on localit.io - this repo is for community contributions and feedback.
+👉 **Note:** Our core product runs on [localit.io](https://localit.io) - this repo is for community contributions and feedback.
 
 ## 🐛 How to Report Issues
 
